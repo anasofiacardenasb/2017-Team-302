@@ -1,1 +1,2 @@
-# 2017-Team-302
+# Team 302 - The Pathfinders
+
